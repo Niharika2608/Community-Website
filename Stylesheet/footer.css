@@ -1,0 +1,25 @@
+body{
+  background-color: #0d0e10;
+  color: #ffff;
+  font-family: 'Poppins', sans-serif;
+}
+.table{
+  padding-left:80px;
+  padding-top: 30px;
+  font-family: 'Poppins', sans-serif;
+}
+h2,h3{
+  color:rgb(154,94,150);
+  font-family: 'Poppins', sans-serif;
+}
+.footer-section {
+  padding: 40px 0px;
+}
+hr.footer-hr {
+  width: 55%;
+}
+@media screen and (max-width:576px){
+  .table {
+    padding-left: 40px;
+  }
+}
